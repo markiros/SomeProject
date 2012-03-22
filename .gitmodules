@@ -1,0 +1,3 @@
+[submodule "protected/extensions/nested-set-behavior"]
+	path = protected/extensions/nested-set-behavior
+	url = https://github.com/yiiext/nested-set-behavior.git
